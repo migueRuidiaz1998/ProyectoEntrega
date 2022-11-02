@@ -1,0 +1,58 @@
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Entidades.dll
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Logica.dll
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Entidades.pdb
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Logica.pdb
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Datos.dll
+J:\Prog3\Programacion III\Presentacion\Presentacion\bin\Debug\Datos.pdb
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.FormDetectives.resources
+J:\Prog3\Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.FormDetectives.resources
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.pdb
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Entidades.dll
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Logica.dll
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Datos.dll
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Entidades.pdb
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Logica.pdb
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\bin\Debug\Datos.pdb
+J:\ProyectoDeAula Programacion III\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Presentacion.exe
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Presentacion.pdb
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Entidades.dll
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Logica.dll
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Datos.dll
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Entidades.pdb
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Logica.pdb
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\bin\Debug\Datos.pdb
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.FormDetectives.resources
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.FormSospechosos.resources
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.exe
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Presentacion\obj\Debug\Presentacion.pdb

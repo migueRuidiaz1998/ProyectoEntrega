@@ -1,0 +1,3 @@
+12345;jorge;Ruidiaz;2;Narcotrafico
+12345;Luid;Res
+1004506244;Jorge Miguel;Alvarado Ruidiaz;1;Cibercrimen

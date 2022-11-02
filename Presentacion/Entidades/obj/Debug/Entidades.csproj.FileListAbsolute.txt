@@ -1,0 +1,18 @@
+J:\Prog3\Programacion III\Presentacion\Entidades\bin\Debug\Entidades.dll
+J:\Prog3\Programacion III\Presentacion\Entidades\bin\Debug\Entidades.pdb
+J:\Prog3\Programacion III\Presentacion\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+J:\Prog3\Programacion III\Presentacion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+J:\Prog3\Programacion III\Presentacion\Entidades\obj\Debug\Entidades.dll
+J:\Prog3\Programacion III\Presentacion\Entidades\obj\Debug\Entidades.pdb
+J:\ProyectoDeAula Programacion III\Presentacion\Entidades\bin\Debug\Entidades.dll
+J:\ProyectoDeAula Programacion III\Presentacion\Entidades\bin\Debug\Entidades.pdb
+J:\ProyectoDeAula Programacion III\Presentacion\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+J:\ProyectoDeAula Programacion III\Presentacion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+J:\ProyectoDeAula Programacion III\Presentacion\Entidades\obj\Debug\Entidades.dll
+J:\ProyectoDeAula Programacion III\Presentacion\Entidades\obj\Debug\Entidades.pdb
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Entidades\bin\Debug\Entidades.dll
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Entidades\bin\Debug\Entidades.pdb
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Entidades\obj\Debug\Entidades.dll
+J:\ProyectoDeAula Programacion III\PruebaDeProyecto\Presentacion\Entidades\obj\Debug\Entidades.pdb
